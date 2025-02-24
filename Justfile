@@ -45,8 +45,7 @@ rename:
 
 # This will only work for how I (@joecstarr) have zotero set up.
 bib:
-    zotero &
-    curl http://127.0.0.1:23119/better-bibtex/export/collection\?/6/268CXLKT.biblatex > ./refs.bib
+    curl http://127.0.0.1:23119/better-bibtex/export/collection?/4/LFR2PSPL.biblatex > ./refs.bib
 
 # Build all the things.
 all:
