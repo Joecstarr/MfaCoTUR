@@ -36,3 +36,15 @@ hypothetical birdhouse building project.
 > This example plan is not perfect. You should think about this example as a
 > step below a "minimum" quality for a project plan. Content written here
 > should serve to inform the essence of what should go in each section.
+
+## Cite me
+
+```bibtex
+@misc{adamsMfaCoTUR,
+  title = {Course Materials Teaching Your Undergraduate Research},
+  author = {Adams, Lori and Starr, Joseph},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Joecstarr/MfaCoTUR}}
+}
+```
