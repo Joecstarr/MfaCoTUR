@@ -4,6 +4,8 @@ The contents of this repository describe the outline for a course on basic
 project management. There are three document sets each described in the
 following sections.
 
+
+
 ## Course Template Documents
 
 ### Project plan
@@ -48,3 +50,7 @@ hypothetical birdhouse building project.
   howpublished = {\url{https://github.com/Joecstarr/MfaCoTUR}}
 }
 ```
+
+# Tools
+
+<cite data-state="closed"><a href="https://doi.org/10.5281/ZENODO.14805610" target="_blank" rel="noreferrer" class="hover-link"><img id="WQGG6qcK4N" style="margin:0 auto" src="https://cdn.curvenote.com/0194d2ee-0db2-7528-9c7f-9bbfb2e15654/public/ddf3ca387546f1959e55c6ae766e07ee.svg" alt="DOI" data-canonical-url="https://zenodo.org/badge/DOI/10.5281/zenodo.14805610.svg"></a></cite>
