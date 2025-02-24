@@ -96,7 +96,10 @@ Students will be able to utilize instructional tools in practice.
 
 ### Assessment Evidence
 
+<!-- prettier-ignore-start -->
+(CD_PT)=
 #### Performance Task(s):
+<!-- prettier-ignore-end -->
 
 The redesigned course has four deliverables for students combined into a
 portfolio to be discussed in the final retrospective.
@@ -115,11 +118,12 @@ will include some of the following:
 -   Demonstrations
 -   Worksheets
 
-Third is a collection of reflections on supplemental work which was designed to
-increase student choices of work which would effectively support their own
-learning. This included but was not limited to; literature reviews of teaching
-research, substantive extensions of their teaching unit, or self-determined
-mini-projects impacting their development in teaching.
+Third is a collection of reflections on supplemental work or _mini-projects_.
+The goal of this supplemental work is to give agency to the student in the
+course. Students selects and reflects on 6 substantive tasks they complete over
+the course of the semester. This includes but is not limited to; literature
+reviews of teaching research, extensions of their teaching unit, or other
+self-determined _mini-projects_ impacting their development in teaching.
 
 The final item is a collection of peer observation prompts and responses written
 and/or analyzed by the student. This includes a peer feedback of the student
@@ -134,6 +138,18 @@ meetings are required:
 -   once the week before their presentation
 -   once in the final week
 
+During these meetings the goal is for the student to identify how and on what
+that students will be evaluated, questions like the following should be
+answered.
+
+-   What quality are you aiming for?
+-   What does an A,B,C,D look like?
+-   How will you communicate progress?
+-   How will you handle hurdles?
+
+These should form the basis for specific evaluative criteria, beyond those found
+in [](#CD_PT).
+
 ## Stage 3 - Learning Plan: _Summary of Key Learning Events and Instruction_
 
 The course instruction content contains six to seven weeks of material.
@@ -146,13 +162,13 @@ classroom time, instead handing those responsibilities to the students.
 
 The following is a high level overview of the course schedule:
 
-1. Week 1: Getting started
+1. Week 1 Getting started
     1. Syllabus
     2. Icebreaker
     3. Instructor gives a lightning talk.
-2. Week 2: Model Lesson
+2. Week 2 Model Lesson
     1. The instructor models a lesson on their research.
-3. Week 3: Backward Design: Phase 1
+3. Week 3 Backward Design: Phase 1
     1. Overview of ideation with backward design
 4. Week 4 Backward Design: Phase 2
     1. Overview of assessment strategies
