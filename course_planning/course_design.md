@@ -60,6 +60,8 @@ _Students will understand that…_
 -   Course design takes time and effort.
 -   Course design requires a thoughtful systematic approach.
 -   Tools exist to enable effective course design.
+-   Instruction requires engagement.
+
 
 #### Essential Questions
 
