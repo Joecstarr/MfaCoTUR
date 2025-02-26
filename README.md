@@ -1,56 +1,51 @@
-# Materials for a Course on Basic Project Management
+# Materials for a Course on Teaching Undergraduate Research
 
-The contents of this repository describe the outline for a course on basic
-project management. There are three document sets each described in the
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![DOI](https://zenodo.org/badge/929985367.svg)](https://doi.org/10.5281/zenodo.14933487)
+
+The contents of this repository describe the outline for a course on teaching
+undergraduate research. There are three document sets each described in the
 following sections.
 
+# Note to Reader
 
+If you find an issue with this repository or have a question please feel free
+to open an issue. I've included templates for the following issues:
 
-## Course Template Documents
+- 🐞 Spelling and Grammar
+- 🤷 Clarity
+- ❓ Question
 
-### Project plan
-
-The project plan `./documents/plan/project_plan.md` is the primary planning
-document for the project.
-
-### Risk Management Plan
-
-The risk management plan `./documents/risk/risk_management_plan.md` is gives an
-overview of things that can go wrong in a project and how to handle things when
-they do go wrong.
-
-### Project Schedule
-
-The project schedule `./documents/schedule/schedule.md` gives a list of all
-tasks involved with project competition.
+# What's in This Repository?
 
 ## Course Design Documents
 
 The course design `./course_planning/course_design.md` contains the overall
-course goals as well as per week outlines of the course content.
+course goals as well as per week outlines of the course content. Additionally,
+you can find materials used in the course design.
 
-## Example Project Plan
+## Model Lesson
 
-The contents of `./example` are a sample example plan created for a
-hypothetical birdhouse building project.
+The files for my model lesson given in week 2 of the course.
 
-> [!NOTE]
-> This example plan is not perfect. You should think about this example as a
-> step below a "minimum" quality for a project plan. Content written here
-> should serve to inform the essence of what should go in each section.
+# Cite Me 📃
 
-## Cite me
+Bibtex and APA on the right sidebar of github.
 
-```bibtex
-@misc{adamsMfaCoTUR,
-  title = {Course Materials Teaching Your Undergraduate Research},
-  author = {Adams, Lori and Starr, Joseph},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Joecstarr/MfaCoTUR}}
-}
-```
+<!-- prettier-ignore-start -->
+# Citations
 
-# Tools
+1. Jupyter Book Contributors, Cockett, R., Koch, F., Purves, S., Hollands, A., Yuxi Wang, … Josh Borrow. (2025). jupyter-book/mystmd: v1.3.22 (Version mystmd@1.3.22). Zenodo. https://doi.org/10.5281/ZENODO.14805610
+2. Fisher, D., & Frey, N. (2013). Better Learning Through Structured Teaching: A Framework for the Gradual Release of Responsibility. ASCD.
+3. Hoffmann, D., & Lenoch, S. (2013). Teaching Your Research: A Workshop to Teach Curriculum Design to Graduate Students and Post-doctoral Fellows. Medical Science Educator, 23(3), 336-345.
+4. Stommel, J. (2023). Undoing the Grade: Why We Grade, and How to Stop. Hybrid Pedagogy Inc..
+5. Wiggins, G., & McTighe, J. (2008). Understanding by Design. Association for Supervision and Curriculum Development.
 
-<cite data-state="closed"><a href="https://doi.org/10.5281/ZENODO.14805610" target="_blank" rel="noreferrer" class="hover-link"><img id="WQGG6qcK4N" style="margin:0 auto" src="https://cdn.curvenote.com/0194d2ee-0db2-7528-9c7f-9bbfb2e15654/public/ddf3ca387546f1959e55c6ae766e07ee.svg" alt="DOI" data-canonical-url="https://zenodo.org/badge/DOI/10.5281/zenodo.14805610.svg"></a></cite>
+# License ⚖️
+
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Materials for a Course on Teaching Undergraduate Research</span> by <span property="cc:attributionName">Joseph Starr and Lori Adams</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
+
+<!-- prettier-ignore-end -->
