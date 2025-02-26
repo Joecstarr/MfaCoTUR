@@ -12,7 +12,7 @@ design:
     myst clean --all -y
     myst init --write-toc
     myst build ./course_design.md
-    cp -r materials ./_build/export
+    cp -r materials ./_build/exports/materials
     just rename
 
 # Rename files: .doc -> .docx

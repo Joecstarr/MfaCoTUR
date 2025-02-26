@@ -61,6 +61,9 @@ _Students will understand that…_
 -   Course design requires a thoughtful systematic approach.
 -   Tools exist to enable effective course design.
 -   Instruction requires engagement.
+-   Assessment choice isn't arbitrary.
+-   Assessment informs future instruction.
+-   Formal analysis of feedback makes you better.
 
 
 #### Essential Questions
@@ -70,6 +73,8 @@ _Students will understand that…_
 -   How do you create engaging instruction?
 -   How do you evaluate student success?
 -   How do you your evaluate success in instruction?
+
+
 
 ### Acquisition
 
@@ -83,6 +88,7 @@ _Students will understand that…_
 -   How to create engaging activities.
 -   How to assess student understandings.
 -   How to give, prompt, and receive peer feedback.
+-   How to analyze course reviews.
 
 #### Students will be skilled at…
 
@@ -94,7 +100,7 @@ Students will be able to utilize instructional tools in practice.
 
 -   Students have a well-formed course design.
 -   Students will present their lesson.
--   Students will evaluate thier .
+-   Students will evaluate their peer feedback.
 
 ### Assessment Evidence
 
