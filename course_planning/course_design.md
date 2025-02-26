@@ -80,7 +80,7 @@ _Students will understand that…_
 -   How to use backwards design for ideation.
 -   How to use backwards design for planning.
 -   How to research instructional methods.
--   How to identify in effective instruction.
+-   How to identify effective instruction.
 -   How to communicate complex ideas to a lay audience.
 -   How to create engaging activities.
 -   How to assess student understandings.
