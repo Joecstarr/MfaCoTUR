@@ -1,5 +1,7 @@
-# Week 5 Design
-
+<!-- prettier-ignore-start -->
+(W7)=
+# Week 7-14 Student Presentations
+<!-- prettier-ignore-end -->
 Each student will have an opportunity to "own" a week of instruction. The
 instructor should behave as a normal member of the classroom.
 

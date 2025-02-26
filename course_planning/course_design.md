@@ -65,7 +65,6 @@ _Students will understand that…_
 -   Assessment informs future instruction.
 -   Formal analysis of feedback makes you better.
 
-
 #### Essential Questions
 
 -   How do you tailor a course for a chosen audience?
@@ -73,8 +72,6 @@ _Students will understand that…_
 -   How do you create engaging instruction?
 -   How do you evaluate student success?
 -   How do you your evaluate success in instruction?
-
-
 
 ### Acquisition
 
@@ -112,43 +109,46 @@ Students will be able to utilize instructional tools in practice.
 The redesigned course has four deliverables for students combined into a
 portfolio to be discussed in the final retrospective.
 
-First, is a collection of the students' design documentation detailing the
-evolution of their goals and the design of their lesson throughout the semester.
-Students are presented with a backward design and encouraged to utilize it in
-their design process. As they move through the course activities they are
-invited to change their minds, go rogue, and retain the artifacts of their work.
+1. A collection of the students' design documentation detailing the evolution of
+   their goals and the design of their lesson throughout the semester. Students
+   are presented with a backward design and encouraged to utilize it in their
+   design process. As they move through the course activities they are invited
+   to change their minds, go rogue, and retain the artifacts of their work.
 
-Second, are the course materials used in their teaching unit. This generally
-will include some of the following:
+2. The course materials used in their teaching unit. This generally will include
+   some of the following:
 
--   Slides
--   Activity materials
--   Demonstrations
--   Worksheets
+    - Slides
+    - Activity materials
+    - Demonstrations
+    - Worksheets
 
-Third is a collection of reflections on supplemental work or _mini-projects_.
-The goal of this supplemental work is to give agency to the student in the
-course. Students selects and reflects on 6 substantive tasks they complete over
-the course of the semester. This includes but is not limited to; literature
-reviews of teaching research, extensions of their teaching unit, or other
-self-determined _mini-projects_ impacting their development in teaching.
+3. A collection of reflections on independent supplemental work or
+   _mini-projects_. The goal of this supplemental work is to give agency to the
+   student in the course. Students selects and reflects on 6 substantive tasks
+   they complete over the course of the semester. This includes but is not
+   limited to; literature reviews of teaching research, extensions of their
+   teaching unit, or other self-determined _mini-projects_ impacting their
+   development in teaching.
 
-The final item is a collection of peer observation prompts and responses written
-and/or analyzed by the student. This includes a peer feedback of the student
-elicits from the class following the teaching of their unit.
+4. A collection of peer observation prompts and responses written and/or
+   analyzed by the student. This includes a peer feedback of the student elicits
+   from the class following the teaching of their unit.
 
 #### Other Evidence:
 
-Students will have a touchpoint meeting through the semester. Touchpoint
-meetings are required:
+Students will have touchpoint meetings with the instructor through the semester.
+
+Touchpoint meetings are required:
 
 -   once per month
 -   once the week before their presentation
 -   once in the final week
 
 During these meetings the goal is for the student to identify how and on what
-that students will be evaluated, questions like the following should be
-answered.
+that student will be evaluated.
+
+Questions like the following should be answered during meetings:
 
 -   What quality are you aiming for?
 -   What does an A,B,C,D look like?
@@ -156,7 +156,7 @@ answered.
 -   How will you handle hurdles?
 
 These should form the basis for specific evaluative criteria, beyond those found
-in [](#CD_PT).
+in found in [](#CD_PT).
 
 ## Stage 3 - Learning Plan: _Summary of Key Learning Events and Instruction_
 
@@ -168,53 +168,76 @@ the instructor utilizing the majority of the time to model what the students
 will be doing. As weeks progress the instructor should be managing less of the
 classroom time, instead handing those responsibilities to the students.
 
-The following is a high level overview of the course schedule:
+The following is a high level overview of the course schedule specific details
+for each week can be found in its section:
 
-1. Week 1 Getting started
+-   Week 1 Getting started found in [](#W1)
     1. Syllabus
     2. Icebreaker
-    3. Instructor gives a lightning talk.
-2. Week 2 Model Lesson
-    1. The instructor models a lesson on their research.
-3. Week 3 Backward Design: Phase 1
-    1. Overview of ideation with backward design
-4. Week 4 Backward Design: Phase 2
-    1. Overview of assessment strategies
+    3. Instructor gives a lightning talk
+-   Week 2 Model Lesson found in [](#W2)
+    1. The instructor teaches a model lesson communicating the critical portions
+       of their research.
+-   Week 3 Backward Design: Phase 1 found in [](#W3)
+    1. Overview of stage 1 of the backwards design process
+    2. Discussion on finding scope
+-   Week 4 Backward Design: Phase 2 found in [](#W4)
+    1. Overview of assessment by a jigsaw activity
     2. Discussion of engagement
-5. Week 5 Student Lightning talks
-6. Week 6 Draft exchange
-7. Week 7-15: Student lessons
-8. Week 15 Overview of qualitative analysis
-    1. This can also be modified to fit in week 8 or assigned as reading.
-9. Final Exam Retrospective meeting
+-   Week 5 Student Lightning talks found in [](#W5)
+    1. Students present 5 minute lightning talks to their peers
+-   Week 6 Draft exchange found in [](#W6)
+    1. Students exchange draft content for their lesson design.
+-   Week 7-15: Student lessons found in [](#W7)
+-   Week 15 Overview of qualitative analysis found in [](#W15)
+    1. Activity describing thematic analysis
+    2. Discussion on using thematic analysis on peer feedback
+    3. This can also be modified to fit in week 8 or assigned as reading
+-   Final Exam Retrospective meeting
+
++++ { "page-break": true }
 
 ```{include} weekly_plans/1.md
 
 ```
 
++++ { "page-break": true }
+
 ```{include} weekly_plans/2.md
 
 ```
+
++++ { "page-break": true }
 
 ```{include} weekly_plans/3.md
 
 ```
 
++++ { "page-break": true }
+
 ```{include} weekly_plans/4.md
 
 ```
+
++++ { "page-break": true }
 
 ```{include} weekly_plans/5.md
 
 ```
 
++++ { "page-break": true }
+
 ```{include} weekly_plans/6.md
 
 ```
 
++++ { "page-break": true }
+
 ```{include} weekly_plans/student_lesson.md
 
 ```
+
++++ { "page-break": true }
 
 ```{include} weekly_plans/15.md
 
