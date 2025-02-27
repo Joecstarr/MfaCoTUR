@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Course Materials Teaching Your Undergraduate Research
+message: 'If you use this course design, please cite it as below.'
+type: software
+authors:
+  - family-names: Starr
+    given-names: Joseph
+  - family-names: Adams
+    given-names: Lori
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14933488
+repository-code: 'https://github.com/Joecstarr/MfaCoTUR'
+abstract: >-
+  Expectations for undergraduate students to have engaged in
+  research activities before applying to graduate school are
+  becoming more common. Notably lacking from these
+  expectations is the training of those undergraduate
+  students' instructional and communication skills. The
+  development of these skills is critical for producing a
+  well-rounded undergraduate student who will be a
+  successful graduate student. Our institute, which is part
+  of The University of Iowa offers a course for providing
+  instructional development to undergraduate researchers.
+  This repository contains the design documents for the
+  course.
+license: CC-BY-NC-SA-4.0
+date-released: '2025-02-11'
