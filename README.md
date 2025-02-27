@@ -1,8 +1,7 @@
 # Materials for a Course on Teaching Undergraduate Research
 
-[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 [![DOI](https://zenodo.org/badge/929985367.svg)](https://doi.org/10.5281/zenodo.14933487)
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 The contents of this repository describe the outline for a course on teaching
 undergraduate research. There are three document sets each described in the
@@ -16,6 +15,7 @@ to open an issue. I've included templates for the following issues:
 - 🐞 Spelling and Grammar
 - 🤷 Clarity
 - ❓ Question
+- 🚀 Enhancement
 
 # What's in This Repository?
 
