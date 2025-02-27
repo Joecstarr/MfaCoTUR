@@ -19,17 +19,15 @@ body:
           description: >-
               Will you be opening a pull request for this enhancement?
           options:
-              - label: yes
-              - label: no
+              - label: "yes"
+              - label: "no"
       validations:
           required: true
 
     - type: textarea
       id: whats-your-suggestion
       attributes:
-          label:
-              What is the your suggested enhancement? and Why is it an
-              enhancement?
+          label: What is the your suggested enhancement? and Why is it an enhancement?
           description: Your question
           placeholder: >-
               Example: On page x of pdf y you should include z.
